@@ -1,4 +1,4 @@
-# PhishGuard AI
+# PhishGuard AI Dashboard
 <img width="1364" height="652" alt="image" src="https://github.com/user-attachments/assets/474e93e8-687b-4f80-b37a-96437574d930" />
 <img width="1341" height="652" alt="image" src="https://github.com/user-attachments/assets/8b3cce76-4201-46b1-b8c1-11be528d64d3" />
 <img width="1318" height="654" alt="image" src="https://github.com/user-attachments/assets/d70bb69d-d36a-405d-8d04-61810d8a5665" />
