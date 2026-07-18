@@ -1,5 +1,12 @@
 # PhishGuard AI
 <img width="1364" height="652" alt="image" src="https://github.com/user-attachments/assets/474e93e8-687b-4f80-b37a-96437574d930" />
+<img width="1341" height="652" alt="image" src="https://github.com/user-attachments/assets/8b3cce76-4201-46b1-b8c1-11be528d64d3" />
+<img width="1318" height="654" alt="image" src="https://github.com/user-attachments/assets/d70bb69d-d36a-405d-8d04-61810d8a5665" />
+<img width="1335" height="633" alt="image" src="https://github.com/user-attachments/assets/0bfa15c6-61b7-4bb7-a5c7-856a5c25bf9d" />
+<img width="1358" height="649" alt="image" src="https://github.com/user-attachments/assets/7461e932-db03-46ab-bb7d-812bcd539731" />
+
+
+# PhishGuard AI
 
 Real-time AI-powered phishing URL detection platform. A Flask backend runs
 real SSL, WHOIS, DNS, redirect, threat-intel (VirusTotal, Google Safe
